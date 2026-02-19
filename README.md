@@ -25,7 +25,6 @@ An interactive browser-based Simon Says memory game built using HTML, CSS, and J
 5. Game ends if you press the wrong color.
 
 ## 🌐 Live Demo
-
-
-
+https://ksingh-pranjal.github.io/simon-says-game/
+---
 Made with ❤️ by Pranjal Singh
